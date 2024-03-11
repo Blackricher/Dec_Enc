@@ -93,7 +93,7 @@
             <!-- Encryption Part -->
             <div class="encryption-column">
                 <div class="section">
-                    <h2>Encoding2</h2>
+                    <h2>Encoding2Ankit</h2>
                     <form action="encrypt" method="post">
                         <label for="encodeKey">Custom Key:</label>
                         <input type="text" id="encodeKey" name="key" required>
