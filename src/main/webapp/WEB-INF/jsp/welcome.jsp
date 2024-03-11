@@ -93,8 +93,8 @@
             <!-- Encryption Part -->
             <div class="encryption-column">
                 <div class="section">
-                    <h2>Encoding</h2>
-                    <form action="/encrypt" method="post">
+                    <h2>Encoding2</h2>
+                    <form action="encrypt" method="post">
                         <label for="encodeKey">Custom Key:</label>
                         <input type="text" id="encodeKey" name="key" required>
                         <br><br>
@@ -112,8 +112,8 @@
             <!-- Decryption Part -->
             <div class="decryption-column">
                 <div class="section">
-                    <h2>Decoding</h2>
-                    <form action="/decrypt" method="post">
+                    <h2>Decoding2</h2>
+                    <form action="decrypt" method="post">
                         <label for="decodeKey">Custom Key:</label>
                         <input type="text" id="decodeKey" name="key" required>
                         <br><br>
